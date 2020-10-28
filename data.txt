@@ -1,0 +1,3 @@
+Name: Ines
+Age: 26
+Favourite colour: green
